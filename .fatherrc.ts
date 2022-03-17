@@ -1,4 +1,7 @@
+/*
+ * @LastEditors: haols
+ */
 export default {
   esm: 'babel',
-  pkgs: ['test', 'timepicker'], // 解决依赖顺序
+  pkgs: ['timepicker'], // 解决依赖顺序
 };
