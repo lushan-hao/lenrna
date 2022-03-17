@@ -1,6 +1,6 @@
 {
   "name": "@lanshen/test",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "> TODO: description",
   "author": "haols <haols@tsintergy.com>",
   "homepage": "",
@@ -11,11 +11,11 @@
     "test": "__tests__"
   },
   "module": "es/index.js",
-    "typings": "es/index.d.ts",
-    "files": [
-      "lib",
-      "es"
-    ],
+  "typings": "es/index.d.ts",
+  "files": [
+    "lib",
+    "es"
+  ],
   "publishConfig": {
     "access": "public"
   },
