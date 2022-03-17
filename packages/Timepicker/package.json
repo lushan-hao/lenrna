@@ -17,7 +17,8 @@
     "es"
   ],
   "publishConfig": {
-    "registry": "http://localhost:4873/"
+    "registry": "http://localhost:4873/",
+    "access": "public"
   },
   "dependencies": {
     "antd": "^4.16.13",
