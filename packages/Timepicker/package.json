@@ -1,6 +1,6 @@
 {
   "name": "@lanshen/timepicker",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "> TODO: description",
   "author": "haols <haols@tsintergy.com>",
   "homepage": "",
@@ -17,8 +17,9 @@
     "es"
   ],
   "publishConfig": {
-    "access": "public"
+    "registry": "http://localhost:4873/"
   },
+
   "dependencies": {
     "antd": "^4.16.13",
     "classnames": "^2.3.1",
