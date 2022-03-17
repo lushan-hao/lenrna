@@ -4,7 +4,7 @@
   "description": "> TODO: description",
   "author": "haols <haols@tsintergy.com>",
   "license": "ISC",
-  "main": "src/index.js",
+  "main": "lib/index.js",
   "module": "es/index.js",
   "typings": "es/index.d.ts",
   "directories": {

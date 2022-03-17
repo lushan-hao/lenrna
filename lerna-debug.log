@@ -1,20 +1,10 @@
-0 silly argv {
-0 silly argv   _: [ 'create' ],
-0 silly argv   lernaVersion: '4.0.0',
-0 silly argv   '$0': 'C:\\Program Files\\nodejs\\node_modules\\lerna\\cli.js',
-0 silly argv   name: '@lanshen/Timepicker1'
-0 silly argv }
-1 notice cli v4.0.0
-2 verbose rootPath C:\Users\EDZ\Desktop\test12
-3 info versioning independent
-4 warn ENOREMOTE No git remote found, skipping repository property
-5 error Error: canceled
-5 error     at Interface.<anonymous> (C:\Users\EDZ\Desktop\test12\node_modules\read\lib\read.js:66:13)
-5 error     at Interface.emit (events.js:311:20)
-5 error     at Interface._ttyWrite (readline.js:893:16)
-5 error     at ReadStream.onkeypress (readline.js:198:10)
-5 error     at ReadStream.emit (events.js:311:20)
-5 error     at emitKeys (internal/readline/utils.js:438:14)
-5 error     at emitKeys.next (<anonymous>)
-5 error     at ReadStream.onData (readline.js:1160:36)
-5 error     at ReadStream.emit (events.js:311:20)
+15 error Error: Command failed with exit code 1: git remote update
+15 error fatal: unable to access 'https://github.com/lushan-hao/lenrna.git/': Failed to connect to github.com port 443: Timed out
+15 error error: Could not fetch origin
+15 error Fetching origin
+15 error     at makeError (C:\Users\EDZ\Desktop\lerna\node_modules\execa\lib\error.js:60:11)
+15 error     at Function.module.exports.sync (C:\Users\EDZ\Desktop\lerna\node_modules\execa\index.js:194:17)
+15 error     at Object.execSync (C:\Users\EDZ\Desktop\lerna\node_modules\@lerna\child-process\index.js:39:16)
+15 error     at updateRemote (C:\Users\EDZ\Desktop\lerna\node_modules\@lerna\version\lib\is-behind-upstream.js:34:16)
+15 error     at isBehindUpstream (C:\Users\EDZ\Desktop\lerna\node_modules\@lerna\version\lib\is-behind-upstream.js:16:3)
+15 error     at VersionCommand.initialize (C:\Users\EDZ\Desktop\lerna\node_modules\@lerna\version\index.js:153:9)
