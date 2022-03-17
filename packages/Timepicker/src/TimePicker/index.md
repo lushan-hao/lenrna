@@ -151,6 +151,8 @@ export default () => {
 
 `<TimePicker />` | 参数 | 说明 | 类型 | 默认值 | | :---- | :----: | :----: | :----: | | className | 赋值给整个组件的 className | string | - | | value | 当前时间 | string | null | null | | width | 整个 TimePicker 的宽度 | number | 120 | | disabled | 禁用全部操作 | boolean | false | | disabledHours | 禁止选择部分小时选项 | function(): void | - | | disabledMinutes | 禁止选择部分分钟选项 | function(selectedHour: number): void | - | | minuteStep | 分钟选项间隔 | number | 1 | | hourStep | 小时选项间隔 | number | 1 | | onChange | 时间发生变化的回调 | function(timeString: string): void | - |
 
+1
+
 ### FAQ
 
 TODO:  
