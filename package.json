@@ -1,5 +1,5 @@
 {
-  "name": "test12",
+  "name": "lerna",
   "version": "1.0.1",
   "scripts": {
     "start": "dumi dev",
