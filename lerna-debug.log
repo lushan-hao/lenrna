@@ -1,0 +1,20 @@
+0 silly argv {
+0 silly argv   _: [ 'create' ],
+0 silly argv   lernaVersion: '4.0.0',
+0 silly argv   '$0': 'C:\\Program Files\\nodejs\\node_modules\\lerna\\cli.js',
+0 silly argv   name: '@lanshen/Timepicker1'
+0 silly argv }
+1 notice cli v4.0.0
+2 verbose rootPath C:\Users\EDZ\Desktop\test12
+3 info versioning independent
+4 warn ENOREMOTE No git remote found, skipping repository property
+5 error Error: canceled
+5 error     at Interface.<anonymous> (C:\Users\EDZ\Desktop\test12\node_modules\read\lib\read.js:66:13)
+5 error     at Interface.emit (events.js:311:20)
+5 error     at Interface._ttyWrite (readline.js:893:16)
+5 error     at ReadStream.onkeypress (readline.js:198:10)
+5 error     at ReadStream.emit (events.js:311:20)
+5 error     at emitKeys (internal/readline/utils.js:438:14)
+5 error     at emitKeys.next (<anonymous>)
+5 error     at ReadStream.onData (readline.js:1160:36)
+5 error     at ReadStream.emit (events.js:311:20)
