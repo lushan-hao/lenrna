@@ -1,0 +1,34 @@
+{
+  "name": "@sunny/timepicker",
+  "version": "1.0.0",
+  "description": "> TODO: description",
+  "author": "haols <haols@tsintergy.com>",
+  "homepage": "https://github.com/lushan-hao/lenrna#readme",
+  "license": "ISC",
+  "module": "es/index.js",
+  "typings": "es/index.d.ts",
+  "files": [
+    "lib",
+    "es"
+  ],
+  "directories": {
+    "lib": "lib",
+    "test": "__tests__"
+  },
+  "publishConfig": {
+    "access": "public"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lushan-hao/lenrna.git"
+  },
+  "scripts": {
+    "test": "echo \"Error: run tests from root\" && exit 1"
+  },
+  "bugs": {
+    "url": "https://github.com/lushan-hao/lenrna/issues"
+  },
+  "dependencies": {
+    "antd": "^4.19.2"
+  }
+}
