@@ -2,6 +2,12 @@
 
 All notable changes to this project will be documented in this file. See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+## [1.1.4](https://github.com/lushan-hao/lenrna/compare/@sunny/timepicker@1.1.3...@sunny/timepicker@1.1.4) (2022-03-19)
+
+### Bug Fixes
+
+- 修改文件 ([8a5f67d](https://github.com/lushan-hao/lenrna/commit/8a5f67d310f4f5cb797e63eb5a3147db2c96a79a))
+
 ## [1.1.3](https://github.com/lushan-hao/lenrna/compare/@sunny/timepicker@1.1.2...@sunny/timepicker@1.1.3) (2022-03-19)
 
 ### Bug Fixes
