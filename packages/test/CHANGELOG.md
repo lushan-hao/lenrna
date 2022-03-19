@@ -2,6 +2,12 @@
 
 All notable changes to this project will be documented in this file. See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+## [1.1.3](https://github.com/lushan-hao/lenrna/compare/@sunny/test@1.1.2...@sunny/test@1.1.3) (2022-03-19)
+
+### Bug Fixes
+
+- 测试代码更新包 ([add96ba](https://github.com/lushan-hao/lenrna/commit/add96ba4d35b75684255a5512241687f0b1e159a))
+
 ## [1.1.2](https://github.com/lushan-hao/lenrna/compare/@sunny/test@1.0.1...@sunny/test@1.1.2) (2022-03-19)
 
 ### Bug Fixes
