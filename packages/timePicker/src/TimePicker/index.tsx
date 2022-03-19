@@ -100,7 +100,7 @@ const TimePicker = (props: TimePickProps) => {
             {...rest}
             style={{
               width,
-              caretColor: 'transparent',
+              // caretColor: 'transparent',
             }}
             disabled={disabled}
             placeholder={hourValue === null || minuteValue === null ? '请选择时间' : ''}
