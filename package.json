@@ -16,8 +16,9 @@
     "test:coverage": "umi-test --coverage",
     "prepublishOnly": "npm run build"
   },
-  "module": "es/index.js",
-  "typings": "es/index.d.ts",
+  "main": "dist/index.js",
+  "module": "es/index.esm.js",
+  "typings": "rs/index.d.ts",
   "gitHooks": {
     "pre-commit": "lint-staged"
   },
